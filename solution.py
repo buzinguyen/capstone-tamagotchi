@@ -2,4 +2,4 @@
 import lib.display
 import lib.kinematics
 
-print("hello")
+print("hello world !")
